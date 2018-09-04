@@ -30,5 +30,3 @@ Test Benches:
 * CPU_tb.v
 * ALUControl_tb.v
 * SignExtension_tb.v
-
-If I continue working on this, I plan on modularizing it further and implementing additional opcodes.
